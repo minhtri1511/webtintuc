@@ -21,6 +21,6 @@
 
 <h2> CSDL BanTin Và TacGia
 
-![IMG](bantin.jpg)
+![IMG](bantin.JPG)
 
-![IMG](tacgia.jpg)
+![IMG](tacgia.JPG)
